@@ -1,0 +1,4 @@
+nltk==3.7
+scikit_learn==1.1.1
+pyTelegramBotAPI
+python-dotenv
